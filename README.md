@@ -21,4 +21,4 @@ Documentation and Issues tracker for the C# WinForm Designer for VS Code
 
 # Licensing
 
-To purchase a license for this software, visit [IronmanSoftware.com](https://ironmansoftware.com/c-windows-form-designer-for-vs-code)
+To purchase a license for this software, visit [IronmanSoftware.com](https://ironmansoftware.com/csharp-winform-designer-for-vs-code/)
