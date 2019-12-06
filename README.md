@@ -11,3 +11,7 @@ Documentation and Issues tracker for the C# WinForm Designer for VS Code
 
 - No support for resources. 
 - No support for user controls. 
+
+# Licensing
+
+To purchase a license for this software, visit [IronmanSoftware.com](https://ironmansoftware.com/c-windows-form-designer-for-vs-code)
